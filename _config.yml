@@ -1,4 +1,14 @@
-title: Naa Odey Solomon
-#logo: 
-show_downloads: true
-theme: jekyll-theme-minimal
+title: "Naa Odey Solomon"
+description: "MPhil in Mathematical Statistics | Bayesian Inference | Time Series"
+
+theme: minima
+
+# Navigation links
+header_pages:
+  - about.md
+  - projects.md
+  - blog.md
+  - contact.md
+
+# Markdown
+markdown: kramdown
