@@ -15,6 +15,7 @@ title: Home
     padding: 40px;
     border-radius: 10px;
     display: flex;
+    flex-wrap: wrap;
     align-items: center;
     gap: 30px;
     max-width: 900px;
