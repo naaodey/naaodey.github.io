@@ -5,4 +5,5 @@ permalink: /contact/
 ---
 
 Email: [naodeysolomon@gmail.com](mailto:naodeysolomon@gmail.com)
-GitHub: https://github.com/naaodey  
+
+GitHub: [https://github.com/naaodey](https://github.com/naaodey/)
